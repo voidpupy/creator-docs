@@ -1,7 +1,7 @@
 ---
 title: "Avatars"
 excerpt: "Learn about VRChat's Avatars 3.0 SDK"
-hidden: false
+hidden: false.
 createdAt: "2020-07-08T17:39:44.315Z"
 updatedAt: "2023-04-03T18:46:53.072Z"
 sidebar_position: 0
